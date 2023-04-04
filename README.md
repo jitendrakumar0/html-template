@@ -1,7 +1,7 @@
 # Bonita UI designer ![Build](https://github.com/bonitasoft/bonita-ui-designer-internal/workflows/Build/badge.svg)
 
 
-![The WYSIWYG web editor by Bonita.](img/WysiwygUIDEditor.png)
+![The WYSIWYG web editor by Bonita.](apple-touch-icon.png)
 
 Create your own pages for your Bonita application or your own project.
 
